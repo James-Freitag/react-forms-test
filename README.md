@@ -1,3 +1,9 @@
+This is just a small project to practice different functionality in React JS. 
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
